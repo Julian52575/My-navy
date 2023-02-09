@@ -3,8 +3,9 @@ Our first (and only) project with [signal.h](https://en.wikipedia.org/wiki/C_sig
 The point of the project was to transfer data between 2 terminals   
     
 ```make``` the binary,   
-```./navy ${position_file}``` to initalize the game,
-```./navy ${pid of the initialized game} ${position file}``` to join the game,
+```./navy ${position_file}``` to initalize the game,        
+```./navy ${pid of the initialized game} ${position file}``` to join the game,      
+and then write a position to shot your attack !      
 
 ![navy 1](https://user-images.githubusercontent.com/114570075/217926991-67e0b9e2-377a-4527-b383-d21506852ec9.png)   
     
