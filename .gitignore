@@ -1,0 +1,9 @@
+*.o
+*.c~
+*.c#
+navy
+test/
+lol.txt
+*.log
+coding-style-checker/
+kill_it
